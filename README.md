@@ -67,11 +67,11 @@ behaviors:
       play_against_latest_model_ratio: 0.5 
       window: 10 
 ```
+max_steps - Общее количество шагов, влияет на длительность обучения.
 time_horizon - Сколько шагов опыта нужно собрать для каждого агента, прежде чем добавлять его в буфер опыта.
 ![image](https://user-images.githubusercontent.com/114568072/205134481-8180d215-8428-4aef-b292-53ae1f495a73.png)
 ![image](https://user-images.githubusercontent.com/114568072/205139165-5e4ec934-0b3d-4569-bd9a-d44301e468a9.png)
 
-max_steps - Общее количество шагов, влияет на длительность обучения.
 ## Задание 2
 Опишите результаты, выведенные в TensorBoard. 
 
