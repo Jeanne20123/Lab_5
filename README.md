@@ -35,3 +35,10 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/114568072/205132571-9df59bae-2fc3-42c8-8297-952e5083d95b.png)
 Запустила TensorBoard
 ![image](https://user-images.githubusercontent.com/114568072/205132712-5616fde8-6a2d-4aeb-85cb-355dd055963b.png)
+time_horizon - Сколько шагов опыта нужно собрать для каждого агента, прежде чем добавлять его в буфер опыта.
+![image](https://user-images.githubusercontent.com/114568072/205134481-8180d215-8428-4aef-b292-53ae1f495a73.png)
+![image](https://user-images.githubusercontent.com/114568072/205134708-77fb5add-5ce6-408e-889f-f94b464299c9.png)
+max_steps - Общее количество шагов, влияет на длительность обучения.
+## Задание 2
+Опишите результаты, выведенные в TensorBoard. 
+![image](https://user-images.githubusercontent.com/114568072/205135485-09653b58-b3fe-41b3-9cbc-9c9900787edd.png)
